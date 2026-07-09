@@ -1,0 +1,27 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.24.6/ext/bootsnap
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for fdatasync() in unistd.h... no
+checking for fstatat() in sys/stat.h... no
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.24.6/ext/bootsnap
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-67n5cd sitelibdir\=./.gem.20260709-22708-67n5cd clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.24.6/ext/bootsnap
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-67n5cd sitelibdir\=./.gem.20260709-22708-67n5cd
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating bootsnap-x64-mingw-ucrt.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.24.6/ext/bootsnap
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-67n5cd sitelibdir\=./.gem.20260709-22708-67n5cd install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20260709-22708-67n5cd/bootsnap
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.24.6/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-67n5cd sitelibdir\=./.gem.20260709-22708-67n5cd clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
