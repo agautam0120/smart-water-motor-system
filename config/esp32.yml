@@ -1,0 +1,8 @@
+development:
+  url: "http://192.168.1.100"
+
+test:
+  url: "http://localhost"
+
+production:
+  url: "http://motor-controller.local"

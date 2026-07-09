@@ -1,0 +1,22 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.5/ext/nio4r
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.5/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-24uzjv sitelibdir\=./.gem.20260709-22708-24uzjv clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make: *** No rule to make target 'clean'.  Stop.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.5/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-24uzjv sitelibdir\=./.gem.20260709-22708-24uzjv
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make: Nothing to be done for 'all'.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.5/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-24uzjv sitelibdir\=./.gem.20260709-22708-24uzjv install
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make: Nothing to be done for 'install'.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/nio4r-2.7.5/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-24uzjv sitelibdir\=./.gem.20260709-22708-24uzjv clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+make: *** No rule to make target 'clean'.  Stop.

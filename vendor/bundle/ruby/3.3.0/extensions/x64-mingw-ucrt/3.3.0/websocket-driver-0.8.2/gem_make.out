@@ -1,0 +1,23 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-yewjcn sitelibdir\=./.gem.20260709-22708-yewjcn clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-yewjcn sitelibdir\=./.gem.20260709-22708-yewjcn
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating websocket_mask-x64-mingw-ucrt.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-yewjcn sitelibdir\=./.gem.20260709-22708-yewjcn install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20260709-22708-yewjcn
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.8.2/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-yewjcn sitelibdir\=./.gem.20260709-22708-yewjcn clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

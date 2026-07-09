@@ -1,0 +1,24 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-cdawvg sitelibdir\=./.gem.20260709-22708-cdawvg clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-cdawvg sitelibdir\=./.gem.20260709-22708-cdawvg
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-cdawvg sitelibdir\=./.gem.20260709-22708-cdawvg install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 debug.so ./.gem.20260709-22708-cdawvg/debug
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-cdawvg sitelibdir\=./.gem.20260709-22708-cdawvg clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

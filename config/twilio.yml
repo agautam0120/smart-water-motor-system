@@ -1,0 +1,14 @@
+development:
+  account_sid: <%= ENV.fetch("TWILIO_ACCOUNT_SID", "") %>
+  auth_token: <%= ENV.fetch("TWILIO_AUTH_TOKEN", "") %>
+  whatsapp_number: <%= ENV.fetch("TWILIO_WHATSAPP_NUMBER", "whatsapp:+918860461858") %>
+
+test:
+  account_sid: <%= ENV.fetch("TWILIO_ACCOUNT_SID", "") %>
+  auth_token: <%= ENV.fetch("TWILIO_AUTH_TOKEN", "") %>
+  whatsapp_number: <%= ENV.fetch("TWILIO_WHATSAPP_NUMBER", "") %>
+
+production:
+  account_sid: <%= ENV.fetch("TWILIO_ACCOUNT_SID", "") %>
+  auth_token: <%= ENV.fetch("TWILIO_AUTH_TOKEN", "") %>
+  whatsapp_number: <%= ENV.fetch("TWILIO_WHATSAPP_NUMBER", "") %>

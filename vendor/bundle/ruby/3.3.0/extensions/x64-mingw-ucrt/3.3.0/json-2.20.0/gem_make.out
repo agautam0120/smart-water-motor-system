@@ -1,0 +1,38 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/json-2.20.0/ext/json/ext/parser
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for rb_enc_interned_str() in ruby/encoding.h... yes
+checking for rb_str_to_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for ruby_xfree_sized() in ruby.h... no
+checking for __builtin_clzll()... yes
+checking for x86intrin.h... yes
+checking for _lzcnt_u64() in x86intrin.h... no
+checking for intrin.h... yes
+checking for __lzcnt64() in intrin.h... no
+checking for _BitScanReverse64() in intrin.h... yes
+checking for RUBY_TYPED_EMBEDDABLE in ruby.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+checking for x86intrin.h... yes
+checking for cpuid.h... yes
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/json-2.20.0/ext/json/ext/parser
+make -j2 DESTDIR\= sitearchdir\=./.gem.20260709-22708-1n5v91 sitelibdir\=./.gem.20260709-22708-1n5v91 clean
+make: warning: -j2 forced in submake: resetting jobserver mode.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/json-2.20.0/ext/json/ext/parser
+make -j2 DESTDIR\= sitearchdir\=./.gem.20260709-22708-1n5v91 sitelibdir\=./.gem.20260709-22708-1n5v91
+make: warning: -j2 forced in submake: resetting jobserver mode.
+generating parser-x64-mingw-ucrt.def
+compiling parser.c
+linking shared-object json/ext/parser.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/json-2.20.0/ext/json/ext/parser
+make -j2 DESTDIR\= sitearchdir\=./.gem.20260709-22708-1n5v91 sitelibdir\=./.gem.20260709-22708-1n5v91 install
+make: warning: -j2 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 parser.so ./.gem.20260709-22708-1n5v91/json/ext
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/json-2.20.0/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-1n5v91 sitelibdir\=./.gem.20260709-22708-1n5v91 clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

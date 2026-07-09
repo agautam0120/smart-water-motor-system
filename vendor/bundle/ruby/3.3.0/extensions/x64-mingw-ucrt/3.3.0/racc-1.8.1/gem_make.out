@@ -1,0 +1,23 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-4zde1u sitelibdir\=./.gem.20260709-22708-4zde1u clean
+make: warning: -j3 forced in submake: resetting jobserver mode.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-4zde1u sitelibdir\=./.gem.20260709-22708-4zde1u
+make: warning: -j3 forced in submake: resetting jobserver mode.
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make -j3 DESTDIR\= sitearchdir\=./.gem.20260709-22708-4zde1u sitelibdir\=./.gem.20260709-22708-4zde1u install
+make: warning: -j3 forced in submake: resetting jobserver mode.
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260709-22708-4zde1u/racc
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-4zde1u sitelibdir\=./.gem.20260709-22708-4zde1u clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

@@ -1,0 +1,14 @@
+development:
+  auto_stop_minutes: 20
+  whatsapp_enabled: true
+  heartbeat_interval: 30
+
+test:
+  auto_stop_minutes: 1
+  whatsapp_enabled: false
+  heartbeat_interval: 5
+
+production:
+  auto_stop_minutes: 20
+  whatsapp_enabled: true
+  heartbeat_interval: 30

@@ -1,0 +1,29 @@
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/date-3.5.1/ext/date
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... no
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-3xp2dn sitelibdir\=./.gem.20260709-22708-3xp2dn clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-3xp2dn sitelibdir\=./.gem.20260709-22708-3xp2dn
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+generating date_core-x64-mingw-ucrt.def
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-3xp2dn sitelibdir\=./.gem.20260709-22708-3xp2dn install
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20260709-22708-3xp2dn
+
+current directory: D:/motor_management_system/smart_motor_management_system/vendor/bundle/ruby/3.3.0/gems/date-3.5.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20260709-22708-3xp2dn sitelibdir\=./.gem.20260709-22708-3xp2dn clean
+make: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
